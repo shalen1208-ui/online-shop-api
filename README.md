@@ -9,8 +9,8 @@ Web Server berbasis Node.js + Express + MySQL2 untuk operasi CRUD pada domain On
 | NIM | Nama |
 |-----|------|
 | 241111617 | Shalvendraan |
-| 24111xxxx | Aditya Pratama |
-| 24111xxxx | Felix Winata |
+| 241111850 | Aditya Pratama |
+| 241111379 | Felix Winata |
 
 ---
 
@@ -219,5 +219,5 @@ Response:
 | NIM | Nama | Tugas |
 |-----|------|-------|
 | 241111617 | Shalvendraan | Setup project, config DB, app.js, resource orders |
-| 24111xxxx | Aditya Pratama | Resource users, categories, error handling |
-| 24111xxxx | Felix Winata | Resource products, carts, README, demo video |
+| 241111850 | Aditya Pratama | Resource users, categories, error handling |
+| 241111379 | Felix Winata | Resource products, carts, README, demo video |
