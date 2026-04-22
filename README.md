@@ -4,7 +4,7 @@ Web Server berbasis Node.js + Express + MySQL2 untuk operasi CRUD pada domain On
 
 ---
 
-## 👥 Anggota Kelompok
+## Anggota Kelompok
 
 | NIM | Nama |
 |-----|------|
@@ -14,7 +14,7 @@ Web Server berbasis Node.js + Express + MySQL2 untuk operasi CRUD pada domain On
 
 ---
 
-## 🗂️ Struktur Proyek
+## Struktur Proyek
 
 ```
 online-shop-api/
@@ -218,6 +218,6 @@ Response:
 
 | NIM | Nama | Tugas |
 |-----|------|-------|
-| 241111617 | Shalvendraan | Setup project, config DB, app.js, resource orders |
-| 241111850 | Aditya Pratama | Resource users, categories, error handling |
+| 241111617 | Shalvendraan | Setup project, config DB, app.js, resource orders, demo video |
+| 241111850 | Aditya Pratama | Resource users, categories, error handling, demo video |
 | 241111379 | Felix Winata | Resource products, carts, README, demo video |
