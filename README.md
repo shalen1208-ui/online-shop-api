@@ -218,6 +218,6 @@ Response:
 
 | NIM | Nama | Tugas |
 |-----|------|-------|
-| 241111617 | Shalvendraan | Setup project, config DB, app.js, resource orders, demo video |
-| 241111850 | Aditya Pratama | Resource users, categories, error handling, demo video |
-| 241111379 | Felix Winata | Resource products, carts, README, demo video |
+| 241111617 | Shalvendraan | Setup project, config DB, app.js, resource orders, README|
+| 241111850 | Aditya Pratama | Resource users, categories, error handling |
+| 241111379 | Felix Winata | Resource products, carts|
